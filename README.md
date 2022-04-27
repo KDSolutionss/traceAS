@@ -7,3 +7,8 @@
 Руководство к использованию: 
 1) ввести доменное имя или IP-адрес.
 2) дождаться вывода таблицы.
+
+Примеры запусков:
+
+![habrpng](https://user-images.githubusercontent.com/40271271/165587624-008ca39e-798a-4751-9462-b9b0f05354df.png)
+![e1](https://user-images.githubusercontent.com/40271271/165587635-294f2c84-b323-413b-9585-cfd82cf65744.png)
